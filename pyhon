@@ -1,0 +1,43 @@
+Rakesh bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+bash: syntax error near unexpected token `('
+No command ~~~ found, did you mean:
+ Command 7zz in package 7zip
+ Command ack in package ack-grep
+ Command acr in package acr
+ Command age in package age
+ Command agg in package agg
+ Command aha in package aha
+ Command adb in package android-tools
+ Command ant in package ant
+ Command ab in package apache2
+ Command apt in package apt
+ Command arj in package arj
+ Command ark in package ark from the x11-repo repository
+ Command a2x in package asciidoc
+ Command asy in package asymptote
+ Command at in package at
+ Command als in package atool
+ Command aws in package awscli
+ Command bat in package bat
+ Command bc in package bc
+ Command bsh in package beanshell
+ Command bed in package bed
+ Command ar in package binutils
+ Command as in package binutils-bin
+ Command ar in package binutils-is-llvm
+ Command bk in package bk
+ Command atc in package bsd-games
+ Command buf in package buf
+ Command ash in package busybox
+ Command bvi in package bvi
+ Command cfm in package cfm
+ Command cjs in package cjs from the x11-repo repository
+ Command c++ in package clang
+ Command ccr in package codecrypt
+ Command cbc in package coinor-cbc
+ Command clp in package coinor-clp
+ Command ctr in package containerd from the root-repo repository
+ Command [ in package coreutils
+ Command ocs in package cscope
+ Command lp in package cu
